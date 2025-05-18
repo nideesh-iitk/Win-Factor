@@ -41,6 +41,7 @@ cd <repo-name>
 
 5. Click the checkmark ✔️ (Commit) button to commit the staged changes.
 
+6. Click the Sync Changes Button
 ---
 
 
